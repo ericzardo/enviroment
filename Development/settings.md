@@ -1,4 +1,4 @@
-## VSCode Settings
+## VSCode Settings & Extensions
 
 ### How to Apply These Settings
 
@@ -105,3 +105,13 @@
   "editor.suggestSelection": "recentlyUsedByPrefix",
   "explorer.confirmDelete": false
 }
+```
+
+### Extensions
+- Eslint
+- Prisma
+- TailwindCSS Intellisens
+- Draw Folder Structure
+- Symbols
+- Min Theme
+- Fluent Icons
